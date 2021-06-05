@@ -1,0 +1,48 @@
+body{
+   font-family: sans-serif;
+          color: #565656;
+          margin: 0;
+}
+header{
+    background-color: #30373b;
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+h2{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+a {
+          color: #7ab55c;
+          text-decoration: none;
+        }
+ section {
+          padding: 10px;
+        }
+
+        section form {
+          text-align: center;
+        }
+
+        section p {
+          max-width: 700px;
+          margin: 2em auto;
+          line-height: 1.56;
+        }
+
+        form input[type="text"]{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 30px;
+        }
+footer{
+    background-color: #30373b;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    clear: both;
+}
